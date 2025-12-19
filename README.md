@@ -25,4 +25,5 @@
 ## Working With Files
 [**io**](nb/io.ipynb) |
 [**libraries**](nb/libraries.ipynb) |
-[modules-packages](nb/modules-packages.ipynb)
+[modules](nb/modules.ipynb)
+[packages](nb/packages.ipynb)
