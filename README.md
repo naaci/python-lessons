@@ -1,9 +1,9 @@
 ![](https://www.python.org/static/img/python-logo.png)
 ## Introduction
-[**variables**](nb/variables.ipynb) |
 [**integer-arithmetic**](nb/integer-arithmetic.ipynb) |
 [floating-point-arithmetic](nb/floating-point-arithmetic.ipynb) |
-[**strings**](nb/strings.ipynb)
+[**strings**](nb/strings.ipynb) |
+[**variables**](nb/variables.ipynb)
 
 ## Collections
 [**tuples**](nb/tuples.ipynb) |
