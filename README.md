@@ -1,28 +1,32 @@
-![](https://www.python.org/static/img/python-logo.png)
-## Introduction
+[![](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naaci/python-lessons)
+
+# Introduction
 [**integer-arithmetic**](nb/integer-arithmetic.ipynb) |
+[bitwise-arithmetic](nb/bitwise-arithmetic.ipynb) |
 [floating-point-arithmetic](nb/floating-point-arithmetic.ipynb) |
 [**strings**](nb/strings.ipynb) |
 [**variables**](nb/variables.ipynb)
 
-## Collections
+# Collections
 [**tuples**](nb/tuples.ipynb) |
 [lists-sets-dictionaries](nb/lists-sets-dictionaries.ipynb) |
 [classes](nb/classes.ipynb)
 
-## Control Flow
+# Control Flow
 [**conditionals**](nb/conditionals.ipynb) |
 [**while-loops**](nb/while-loops.ipynb) |
 [**for-loops**](nb/for-loops.ipynb) |
 [exceptions](nb/exceptions.ipynb) |
 [functional-programming](nb/functional-programming.ipynb)
 
-## Routines
+# Routines
 [**functions**](nb/functions.ipynb) |
 [generators](nb/generators.ipynb) |
 [concurrency](nb/concurrency.ipynb)
 
-## Working With Files
+# Working With Files
 [**io**](nb/io.ipynb) |
 [sockets](nb/sockets.ipynb) |
 [modules](nb/modules.ipynb) |

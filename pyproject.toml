@@ -1,12 +1,17 @@
 [project]
 name = "python-lessons"
-version = "0.1.0"
+version = "1.1"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=7.1.0",
     "notebook>=7.4.7",
+]
+
+[dependency-groups]
+dev = [
+    "nbconvert[qtpdf]>=7.17.2",
     "pandoc>=2.4",
-    "pip>=25.3",
+    "pip>=26.2.2",
 ]
