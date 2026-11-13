@@ -38,4 +38,5 @@
 [HTTP](nb/http.ipynb) |
 [TCP](nb/tcp.ipynb) |
 [UDP](nb/udp.ipynb) |
-[UPnP](nb/upnp.ipynb)
+[UPnP](nb/upnp.ipynb)|
+[UPnP](nb/smtp.ipynb)
